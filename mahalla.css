@@ -1,0 +1,21 @@
+h1{
+    color: white;
+    background: linear-gradient(45deg,yellow,brown);
+    text-align: center;
+}
+img{
+    width: 600px;
+    height: 400px;
+    border-radius: 60px;
+    border: 40px;    
+    border: 10px solid #8B4513 ;
+    border-radius: 4px;
+    padding: 5px;
+    width: 600px;
+}
+.time{
+    color: yellow;
+    background: linear-gradient(45deg,aqua,purple);
+    font-size: 1.4em;
+   
+}
